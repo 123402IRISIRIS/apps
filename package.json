@@ -1,5 +1,10 @@
 {
-   "homepage": "https://irisnicolaeonea.com",
+
+  "name": "your-app-name",
+  "version": "0.1.0",
+  "public": true,
+  "homepage": "https://www.irisnicolaeonea.com"
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
