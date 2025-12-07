@@ -1,5 +1,5 @@
 {
-  "homepage": "https://irisnicolaeonea.com",
+   "homepage": "https://irisnicolaeonea.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
